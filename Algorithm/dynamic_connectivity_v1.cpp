@@ -3,6 +3,8 @@
 //Union - O(N)
 //Find - O(1)
 
+// ** Quick Find
+
 # include<iostream>
 # include<stdlib>
 using namespace std;
